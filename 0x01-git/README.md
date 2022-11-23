@@ -1,1 +1,1 @@
-This is a git begineer assignment
+This is a new readME 
